@@ -1,0 +1,87 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 6, 2022 8:25 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.0
+WORDPRESS:	6.0.2
+PHP INFO:	7.4.30 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 14MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:25 | filtered:0 | create:25
+FILTERED: []
+SQL CREATED: 20220906_edgarpimenta_18b5fb0bf1c814406726_20220906202507_database.sql
+SQL FILE SIZE: 1.16MB (1221587)
+SQL FILE TIME: 2022-09-06 20:25:27
+SQL RUNTIME: 0.27 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/edgarpi1/public_html
+ARCHIVE FILE: 20220906_edgarpimenta_18b5fb0bf1c814406726_20220906202507_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	329.49MB
+STATS:	Dirs 799 | Files 8,363 | Total 9,162
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 253.84MB
+ARCHIVE RUNTIME: 206.67 sec.
+MEMORY STACK: 18MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.16MB
+INSTALLER FILE: 94.7KB
+ARCHIVE FILE: 253.84MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,891
+ACTUAL FILE/DIRECTORY COUNT: 9,892
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 206.70 sec.
+PEAK PHP MEMORY USED: 18MB
+DONE PROCESSING => 20220906_edgarpimenta 2022-09-06 20:28:54
+
